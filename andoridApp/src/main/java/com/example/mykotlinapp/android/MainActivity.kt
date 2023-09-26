@@ -48,6 +48,6 @@ fun GreetingView(phrases: List<String>) {
 @Composable
 fun DefaultPreview() {
     MyApplicationTheme {
-        GreetingView(listOf("Hello, Android!"))
+        GreetingView(listOf("Hello this is, Android!"))
     }
 }
